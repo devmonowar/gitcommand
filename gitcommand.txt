@@ -66,3 +66,5 @@ open filename
 ctrl+l
 git show commetid
 git merge branchname
+
+git log --oneline
