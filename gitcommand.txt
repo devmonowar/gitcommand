@@ -68,3 +68,5 @@ git show commetid
 git merge branchname
 
 git log --oneline
+
+git push origin --delete Branchname ------ Remote Branch delete
